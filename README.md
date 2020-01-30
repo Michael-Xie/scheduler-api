@@ -9,6 +9,11 @@ Install dependencies with `npm install`.
 ```sh
 npm start
 ```
+## Run the Test Server for Cypress Integration Test
+
+```sh
+npm run test:server
+```
 
 ## Creating The DB
 
